@@ -1,9 +1,5 @@
 # Motocross Bike Game - Development Guide
 
-**Developer:** Harrini Shree M  
-**Studio:** Hammerplay Studios  
-**Timeline:** 3 Working Days  
-**Unity Version:** 2021.3 LTS or newer  
 
 ## 🎯 Project Overview
 
