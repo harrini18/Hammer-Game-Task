@@ -21,7 +21,7 @@ Create a 2D side-scrolling motocross bike game where players collect strawberrie
 ### Coin Economy
 - **Earning:** 10 coins per completed level
 - **Persistence:** Coin balance saved locally using Unity PlayerPrefs
-- **Display:** Current coin count visible in Main Menu and In-Game U
+- **Display:** Current coin count visible in Main Menu 
   
 ## 🖥 User Interface Requirements
 
